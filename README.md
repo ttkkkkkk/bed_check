@@ -41,8 +41,7 @@
      "SPIDER_MAX_RETRY_TIMES": 3,
      "WECHAT_WARNING_URL": "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=a80dfdx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
      "WECHAT_WARNING_PHONE": [
-       "135xxxxx",
-       "189xxxxx"
+       "135xxxxx"
      ],
      "LOG_LEVEL": "INFO"
    }
